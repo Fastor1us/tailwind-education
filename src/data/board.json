@@ -15,12 +15,31 @@
           "tags": [
             {
               "id": 1,
-              "title": "tag title",
+              "title": "tag title 1",
               "color": "#f0db4f"
             },
             {
               "id": 2,
-              "title": "tag title",
+              "title": "tag title 2",
+              "color": "#218d00"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "card title",
+          "createdAt": "Jun 4",
+          "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.",
+          "author": "author name",
+          "tags": [
+            {
+              "id": 1,
+              "title": "tag title 1",
+              "color": "#f0db4f"
+            },
+            {
+              "id": 2,
+              "title": "tag title 2",
               "color": "#218d00"
             }
           ]

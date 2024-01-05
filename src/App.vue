@@ -4,7 +4,7 @@
 </script>
 
 <template>
-  <div class="m-20">
+  <div class="w-screen h-screen">
     <Board v-bind:value="boardData"></Board>
   </div>
 </template>
